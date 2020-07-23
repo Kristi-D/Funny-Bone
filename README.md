@@ -1,14 +1,28 @@
-Trip Calculator
-Team #3 
-Project #1
+# Funny Bone
+### Team #3
+### Project #1
 
-Joe is heading to Cincinnati from Detroit for a job interview. 
-Joe's flight on Northwest Airlines from Detroit to Cincinnati has been cancelled. 
-Joe heads to the rental car counter and logs into the Trip Calculator to determine the most efficient and economical route to Cincinnati so he can get to his interview on time.
+### Team Members
+Kristi Dell (@Kristi-D) responsible for the repository, README.
 
-API's being used are Mapbox and Google Search
+Devon Weems (@WD40JS) responsible for front end code.
 
-Kristi Dell is the repository owner.
-Devon Weems is responsible for front end
-DeMarco Heath is responsible for writing code
-Dalton Allison is responible for ...
+DeMarco Heath (@DeMarcoHeath) responsible for baack end code.
+
+Dalton Allison (@ghostly9592) responsible for miscellaneous needs.
+
+# Funny Bone
+
+## Project Description:
+Funny Bone is a website which allows the user to get the joke of the day, a random joke, a list of jokes, a list of joke categories, search for jokes, and more or they can get the funniest Donald Trump quotes to help brighten their day during the COVID-19 pandemic.
+
+## Tech/framework used:
+HTML, CSS, JavaScript, JQuery, AJAX?
+
+## New Technology used:
+Chart.js
+
+## API Reference:
+Tronald Dump
+Jokes by orthosie
+
