@@ -9,8 +9,6 @@ Devon Weems (@WD40JS) responsible for front end code.
 
 DeMarco Heath (@DeMarcoHeath) responsible for baack end code.
 
-Dalton Allison (@ghostly9592) responsible for miscellaneous needs.
-
 # Funny Bone
 
 ## Project Description:
