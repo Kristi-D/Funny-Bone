@@ -3,11 +3,11 @@
 ### Project #1
 
 ### Team Members
-Kristi Dell (@Kristi-D) responsible for the repository, README.
-
 Devon Weems (@WD40JS) responsible for front end code.
 
 DeMarco Heath (@DeMarcoHeath) responsible for baack end code.
+
+Kristi Dell (@Kristi-D) responsible for the repository, README.
 
 # Funny Bone
 
